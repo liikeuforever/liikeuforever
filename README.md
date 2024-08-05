@@ -2,7 +2,7 @@
 <h3 align="center">A learner in the fields of databases, data mining, and distributed systems.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liikeuforever" alt="liikeuforever" /></a> </p>
-- 🔭 I'm currently working as a backend development intern at Tencent WeChat Group. Previously, I worked as a database kernel intern at [CnosDB](https://github.com/cnosdb/cnosdb) and as a backend intern at JDTech.
+- 🔭 I'm currently working as a backend development intern at Tencent WeChat Group. Previously, I worked as a database kernel intern at CnosDB and as a backend intern at JDTech.
 
 - 🌱 I’m currently learning **databases, data mining, and distributed systems.**
 
