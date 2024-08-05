@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://blog.denji.top/](https://blog.denji.top/)
 
-<h3 align="left">Connect with me:Wechat(sago1437)</h3>
+<h3 align="left">Connect with me: Wechat(sago1437)</h3>
 <p align="left">
 </p>
 
