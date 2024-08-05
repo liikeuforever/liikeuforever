@@ -1,4 +1,4 @@
-<h1 align="center">Hi！Welcome to my world~ I'm DenjiXu</h1>
+<h1 align="center">Hi！Welcome To My World~ I'm DenjiXu</h1>
 <h3 align="center">A learner in the fields of databases, data mining, and distributed systems.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liikeuforever" alt="liikeuforever" /></a> </p>
